@@ -4,6 +4,9 @@
 
 Modified index.html
 
+
+Aaron README typing. Anything.
+
 10/09/18 1:20pm - Kayla
 
 Modified Umbrellas section in index.html: added paragraphs and headings
@@ -11,3 +14,4 @@ Modified Umbrellas section in index.html: added paragraphs and headings
 10/09/18 1:25pm - Kayla
 
 Closed h3 tag in Umbrellas variety section
+
