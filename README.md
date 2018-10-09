@@ -15,3 +15,6 @@ Modified Umbrellas section in index.html: added paragraphs and headings
 
 Closed h3 tag in Umbrellas variety section
 
+Aaron
+
+Modified css and index added pictures
